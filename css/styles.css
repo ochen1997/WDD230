@@ -1,0 +1,50 @@
+
+
+
+.introduction {
+    display: flex;
+    gap: 20px;
+    background-color: #3480bb;
+    padding:1.2em;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+}
+
+.content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.conclusion {
+text-align: center;
+background-color:#3480bb ;
+padding: 0.5em;
+color:#FFFFFF ;
+font-style: normal;
+font-size: larger;
+
+}
+
+.introduction h1 {
+    color:#FFFFFF ;
+}
+
+.link-list h2 {
+    font-family: 'Playfair Display', serif;
+
+}
+
+.lessons li {
+    font-size : x-large ;
+}
+
+
+
+
+
+
+
+
+
+
+
