@@ -3,11 +3,12 @@
 
 .introduction {
     display: flex;
-    gap: 20px;
+    gap: 10px;
     background-color: #3480bb;
     padding:1.2em;
     padding-top: 0.4em;
     padding-bottom: 0.4em;
+
 }
 
 .content {
