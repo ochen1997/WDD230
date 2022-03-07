@@ -36,7 +36,13 @@ font-size: larger;
 }
 
 .lessons li {
-    font-size : x-large ;
+    font-size : 1.2rem ;
+    line-height: 2rem;
+   
+}
+
+.lesson, a {
+    color: cornflowerblue;
 }
 
 
